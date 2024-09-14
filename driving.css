@@ -1,0 +1,22 @@
+.main{
+    border: 3px solid black;
+    background: radial-gradient(yellow,aqua);
+    border-radius: 12px;
+    width: 25em;
+    height: 25em;
+    margin-left: 550px;
+}
+#mylabel{
+    font-size: 20px;
+    margin-left: 50px;
+}
+button{
+    margin-left: 150px;
+    font-size: 1em;
+    margin-top: 50px;
+}
+#para{
+    font-size: 50px;
+    font-style: italic;
+    margin-left: 100px;
+}
